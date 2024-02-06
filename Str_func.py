@@ -4,7 +4,6 @@ print(name.lower())
 print(name.islower())
 print(name.isupper())
 
-
 my_string = "hello world"
 
 # Convert the string to uppercase
